@@ -5869,14 +5869,34 @@ button.close {
 
 /* ABOUT US - GIFT PROGRAM */
 .fifth-section {
-  background-color: #4E2E24;
+  background-color: #43332E;
   border-bottom: 3px solid #EAC070;
-  padding: 60px 40px 60px 40px; }
+  padding: 80px 40px 80px 40px; }
   .fifth-section .row div .row div h3 {
     color: #EAC070; }
   .fifth-section .row div .row div img {
     border-radius: 10px; }
   .fifth-section .row div .row div p {
+    color: #EAC070;
+    font-family: "Open Sans Condensed", sans-serif; }
+
+/* FOOTER */
+.sixth-section {
+  background-color: #30201A;
+  padding: 50px 40px 50px 40px;
+  height: 380px; }
+  .sixth-section .row {
+    margin-bottom: 30px; }
+    .sixth-section .row div h4 {
+      color: #EAC070;
+      margin-bottom: 20px; }
+    .sixth-section .row div .row div img {
+      border-color: #EA7754;
+      background-color: #F1D99A; }
+    .sixth-section .row div .row div p {
+      color: #EAC070;
+      font-family: "Open Sans Condensed", sans-serif; }
+  .sixth-section .row div p {
     color: #EAC070;
     font-family: "Open Sans Condensed", sans-serif; }
 

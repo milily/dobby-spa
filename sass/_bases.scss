@@ -105,7 +105,7 @@
 .fifth-section{
 	background-color: $back-color3;
 	border-bottom: 3px solid $border-color;
-	padding: 60px 40px 60px 40px;
+	padding: 80px 40px 80px 40px;
 
 	.row{
 		div{
@@ -126,6 +126,49 @@
 						font-family: $font-sans;
 					}
 				}
+			}
+		}
+	}
+}
+/* FOOTER */
+.sixth-section{
+	background-color: $back-color4;
+	padding: 50px 40px 50px 40px;
+	height: 380px;
+	.row{
+		margin-bottom: 30px;
+		div{
+			h4{
+				color: $border-color;
+				margin-bottom: 20px;
+			}
+			.row{
+				div{
+					img{
+						
+						border-color: #EA7754;
+						background-color: $back-color;
+					}
+				}
+			}
+		}
+		div{
+			.row{
+				div{
+					p{
+						color: $border-color;
+						font-family: $font-sans;
+					}
+				}
+			}
+		}
+	}
+	.row{
+		div{
+			p{
+				color: $border-color;
+				font-family: $font-sans;
+				
 			}
 		}
 	}

@@ -5817,7 +5817,7 @@ button.close {
     background-size: cover;
     background-position: center center; }
 
-/* NAVBAR */
+/* OUR SERVICES */
 .third-section {
   background-color: #F1D99A; }
   .third-section .row div img {
@@ -5847,5 +5847,22 @@ button.close {
     color: #1D1D1D;
     position: relative;
     bottom: 30px; }
+
+/* WELCOME TO BEAUTY AND HAIR */
+.fourth-section {
+  background-color: #EFEDED;
+  padding: 75px; }
+  .fourth-section .row div img {
+    border-radius: 13px; }
+  .fourth-section .row div .row div h3 {
+    color: #E15C2D;
+    margin-bottom: 30px; }
+  .fourth-section .row div .row div p {
+    font-family: "Open Sans Condensed", sans-serif;
+    color: #1D1D1D;
+    margin-left: 20px;
+    font-size: 14px; }
+  .fourth-section .row div .row div i {
+    padding-right: 5px; }
 
 /*# sourceMappingURL=main.css.map */

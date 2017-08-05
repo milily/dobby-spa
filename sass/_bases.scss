@@ -4,6 +4,7 @@
 }
 /* NAVBAR */
 .first-section{
+	border-bottom: 3px solid #4E2E24;
 	.navbar-inverse{
 		background-color: #48170D;
 		.container{
@@ -72,6 +73,7 @@
 .fourth-section{
 	background-color: $back-color2;
 	padding: 75px;
+	border-bottom: 3px solid $border-color;
 	.row{
 		div{
 			img{
@@ -93,6 +95,35 @@
 					}
 					i{
 						padding-right: 5px;
+					}
+				}
+			}
+		}
+	}
+}
+/* ABOUT US - GIFT PROGRAM */
+.fifth-section{
+	background-color: $back-color3;
+	border-bottom: 3px solid $border-color;
+	padding: 60px 40px 60px 40px;
+
+	.row{
+		div{
+			.row{
+				div{
+					h3{
+						color: $border-color;
+					}
+				}
+				div{
+					img{
+						border-radius: 10px;
+					}
+				}
+				div{
+					p{
+						color: $border-color;
+						font-family: $font-sans;
 					}
 				}
 			}

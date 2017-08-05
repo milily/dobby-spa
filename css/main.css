@@ -5803,6 +5803,7 @@ button.close {
 
 /* NAVBAR */
 .first-section {
+  border-bottom: 3px solid #4E2E24;
   /* CAROUSEL */ }
   .first-section .navbar-inverse {
     background-color: #48170D; }
@@ -5851,7 +5852,8 @@ button.close {
 /* WELCOME TO BEAUTY AND HAIR */
 .fourth-section {
   background-color: #EFEDED;
-  padding: 75px; }
+  padding: 75px;
+  border-bottom: 3px solid #EAC070; }
   .fourth-section .row div img {
     border-radius: 13px; }
   .fourth-section .row div .row div h3 {
@@ -5864,5 +5866,18 @@ button.close {
     font-size: 14px; }
   .fourth-section .row div .row div i {
     padding-right: 5px; }
+
+/* ABOUT US - GIFT PROGRAM */
+.fifth-section {
+  background-color: #4E2E24;
+  border-bottom: 3px solid #EAC070;
+  padding: 60px 40px 60px 40px; }
+  .fifth-section .row div .row div h3 {
+    color: #EAC070; }
+  .fifth-section .row div .row div img {
+    border-radius: 10px; }
+  .fifth-section .row div .row div p {
+    color: #EAC070;
+    font-family: "Open Sans Condensed", sans-serif; }
 
 /*# sourceMappingURL=main.css.map */

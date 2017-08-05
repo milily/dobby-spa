@@ -35,7 +35,7 @@
 		}
 	}
 }
-/* NAVBAR */
+/* OUR SERVICES */
 .third-section{
 	background-color: $back-color;
 	.row{
@@ -64,6 +64,37 @@
 				font-weight: bold;
 				margin-left: 120px;
 				@include titulo-parrafo();
+			}
+		}
+	}
+}
+/* WELCOME TO BEAUTY AND HAIR */
+.fourth-section{
+	background-color: $back-color2;
+	padding: 75px;
+	.row{
+		div{
+			img{
+				border-radius: 13px;
+			}
+		}
+		div{
+			.row{
+				div{
+					h3{
+						color: #E15C2D;
+						margin-bottom: 30px;
+					}
+					p{
+						font-family: $font-sans;
+						color: $font-color;
+						margin-left: 20px;
+						font-size: 14px;
+					}
+					i{
+						padding-right: 5px;
+					}
+				}
 			}
 		}
 	}
